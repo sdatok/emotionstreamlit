@@ -1,0 +1,1 @@
+streamlit run C:\Users\Raiyyan\Downloads\Capstone\Agahash\streamlitApp.py
